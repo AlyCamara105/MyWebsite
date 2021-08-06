@@ -4,35 +4,27 @@
     justify-content: space-around;
     border-radius: 15px;
     color: #76b5c5;
+    padding: 10px;
+}
+
+#projectsbutton, #programsbutton {
+    color: #76b5c5;
+    background-color:#1e81b0;
+    border-radius: 15px;
+}
+
+#homebutton {
+    color: #76b5c5;
+    background-color:#cce6f1;
+    border-radius: 50%;
 }
 
 .fa-home {
     font-size: 50px;
 }
 
-#projects {
-    
-}
-
 body {
     background-color: #abdbe3
-}
-
-.homebackground {
-    background-color:#1e81b0;
-    border-radius: 15px;
-}
-
-#bannerlink {
-    text-decoration: none;
-    color: #76b5c5;
-}
-
-#bannerlink:hover {
-
-    background-color:#1e81b0;
-    border-radius: 15px;
-
 }
 
 #pagebody {
